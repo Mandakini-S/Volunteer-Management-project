@@ -9,8 +9,9 @@ const About = () => {
   return (
     <div>
       <Navbar/>
-      Will update soon...
-      <div className='foot'> <Footer/></div>
+      <h1 className='about-h1'> Will update soon...</h1>
+     
+      {/* <div className='foot'> <Footer/></div> */}
      
      
     </div>
